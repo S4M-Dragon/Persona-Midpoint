@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":223,"indent":0,"parameters":[[-255,-255,-153,153],5,false]},{"code":355,"indent":0,"parameters":["var i = $gameActors.actor(BattleManager.actor().actorId()).currentClass().name;"]},{"code":655,"indent":0,"parameters":[""]},{"code":655,"indent":0,"parameters":["$gameScreen.showPicture(1, i, 1, 640, 460, 100, 100, 0, 0);"]},{"code":232,"indent":0,"parameters":[1,0,1,0,640,360,100,100,255,0,10,true]},{"code":230,"indent":0,"parameters":[30]},{"code":232,"indent":0,"parameters":[1,0,1,0,640,260,100,100,255,0,10,true]},{"code":235,"indent":0,"parameters":[1]},{"code":223,"indent":0,"parameters":[[0,0,0,0],60,true]},{"code":0,"indent":0,"parameters":[]}],"name":"Persona summon","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"Game over Sequence","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":355,"indent":0,"parameters":["if (DataManager.lastAccessedSavefileId() !== 0){"]},{"code":655,"indent":0,"parameters":["$gameSystem.onBeforeSave()"]},{"code":655,"indent":0,"parameters":["DataManager.saveGame(DataManager.lastAccessedSavefileId());"]},{"code":655,"indent":0,"parameters":["}"]},{"code":0,"indent":0,"parameters":[]}],"name":"Autosave sequence","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

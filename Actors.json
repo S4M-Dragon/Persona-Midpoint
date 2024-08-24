@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"MC Battler Animation","characterIndex":0,"characterName":"MC Walking Animation","classId":1,"equips":[1,1,2,3,0,0],"faceIndex":0,"faceName":"MC Portrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"MC","nickname":"MC","note":"","profile":""},
+{"id":2,"battlerName":"Aki Battler Animation","characterIndex":0,"characterName":"Aki Overworld Animation","classId":2,"equips":[2,1,2,3,0,0],"faceIndex":0,"faceName":"Aki Face Portrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"Akemi Sasaki","nickname":"Aki","note":"","profile":""},
+{"id":3,"battlerName":"Kenji Battler Animation","characterIndex":0,"characterName":"Kenji Overworld animation","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Kenji Face Portrait","traits":[],"initialLevel":4,"maxLevel":99,"name":"Kenji ","nickname":"Kenji","note":"","profile":""},
+{"id":4,"battlerName":"Emi Battler animation","characterIndex":7,"characterName":"Emi Overworld Animation","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Emi Neutral Portrait","traits":[],"initialLevel":7,"maxLevel":99,"name":"Emi Genji","nickname":"Emi","note":"","profile":""},
+{"id":5,"battlerName":"Maya Battler Animation","characterIndex":7,"characterName":"Maya Overworld Animation","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Maya Neutral Portrait","traits":[],"initialLevel":14,"maxLevel":99,"name":"Maya Amano","nickname":"Maya","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
